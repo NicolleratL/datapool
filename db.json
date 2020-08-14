@@ -1,8 +1,11 @@
 {
   "posts": [
     {
+      "type": 1,
       "id": 1,
-      "title": "hello"
+      "title": "Meteo jardin",
+      "temp": 32,
+      "humidite": 50
     }
   ],
   "profile": {
