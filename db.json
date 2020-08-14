@@ -4,12 +4,14 @@
       "type": 1,
       "id": 1,
       "title": "Temperature salon",
-      "data": 32 },
+      "data": 32 
+    },
     {
       "type": 2,
       "id": 2,
       "title": "Humidite chambre",
-      "data": 32 },
+      "data": 32 
+    },
     {
       "type": 3,
       "id": 3,
