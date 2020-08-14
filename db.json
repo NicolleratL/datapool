@@ -3,9 +3,8 @@
     {
       "type": 1,
       "id": 1,
-      "title": "Meteo jardin",
-      "temp": 32,
-      "humidite": 50
+      "title": "Temperature salon",
+      "data": 32,
     }
   ],
   "profile": {
